@@ -1,9 +1,9 @@
 <a href="{{ "" | relURL }}">Home</a>
 {{ range .Site.Menus.main }}
-<a href="{{ .URL }}">{{ .Name }}</a>
+<a href="{{ .URL | relURL}}">{{ .Name }}</a>
 {{ end }}
 {{ range .Site.Sections }}
 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
 {{ end }}
-<a href="https://github.com/SofieTorch">GitHub</a>
-<a href="https://www.linkedin.com/in/sofitoro/">LinkedIn</a>
+<a href="https://github.com/SofieTorch" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/sofitoro/" target="_blank">LinkedIn</a>
