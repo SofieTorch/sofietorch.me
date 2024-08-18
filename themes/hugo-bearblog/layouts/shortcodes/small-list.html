@@ -1,0 +1,8 @@
+{{ $section := .Get "section" }} {{ $label := .Get "label" }}
+<h3>{{ $label }}</h3>
+<ul>
+  {{ range where (where .Site.RegularPages "Section" $section)
+  ".Params.showInSmallList" true }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
