@@ -20,7 +20,7 @@ title = "SofieTorch ʕ•ᴥ•ʔ"
 - 👩‍💻 I'm looking to contribute to open source, hoping to open some PRs soon! In the meantime, you can check out **my most recent open source package: [epub_decoder](https://pub.dev/packages/epub_decoder) for Flutter**.
 - One of my current activities is doing research in AI applied to Automatic Short Answer Grading.
 - I like to participate on hackathons and coding contests and, sometimes, win them.
-- If you feel courious, **check out my [experience](/experience)** and **my [LinkedIn](https://www.linkedin.com/in/sofitoro/).**
+- If you feel curious, **check out my [experience](/experience)** and **my [LinkedIn](https://www.linkedin.com/in/sofitoro/).**
 - In another life, 8 years ago, I used to be an artist 🎨.
 
 ## My Community Contributions
