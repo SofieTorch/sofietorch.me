@@ -9,7 +9,7 @@ title = "SofieTorch ʕ•ᴥ•ʔ"
     <img width="32" src="images/purple-junimo.png"/>
     <img width="32" src="images/green-junimo.png"/>
 </h1>
-<i><b>Mobile Engineer | JS Cochabamba Organizer | Coding and fighting bugs 🗡 since I was 14 (+8 years now!)</b></i>
+<i><b>FullStack Software Engineer at Caritas | JS Cochabamba Organizer | Coding and fighting bugs 🗡 since I was 14 (+8 years now!)</b></i>
 
 ---
 
